@@ -1,3 +1,5 @@
+![](https://github.com/bdemirc1/codePath-Prework/blob/main/Kapture%202023-11-17%20at%2020.42.09.gif)
+
 # codePath-Prework
 
 **Favorite Applications and Key Features:**
